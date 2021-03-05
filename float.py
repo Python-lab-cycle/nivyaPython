@@ -1,0 +1,5 @@
+a=float(input("enter the first number:\n"))
+b=float(input("enter the second number:\n"))
+c=float(input("enter the third Number:\n"))
+             d=max(a,b,c)
+              print("greatest among three numbers:",d)
